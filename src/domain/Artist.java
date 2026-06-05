@@ -1,5 +1,8 @@
 package domain;
 
+/**
+ * Represents an artist employee who has a set of creative skills.
+ */
 public class Artist extends Employee {
 
     public Artist(String[] skiils, String name, String jobTitle, int level, String dept) {

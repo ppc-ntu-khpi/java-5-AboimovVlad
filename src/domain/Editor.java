@@ -1,4 +1,8 @@
 package domain;
+
+/**
+ * Represents an editor who can work with electronic or paper editing.
+ */
 public class Editor extends Artist {
 
     public Editor(boolean electronicEditing, String[] skiils, String name, String jobTitle, int level, String dept) {
