@@ -1,4 +1,9 @@
 package domain;
+
+/**
+ * Represents a general employee in the company hierarchy.
+ * Stores the employee's personal and department information.
+ */
 public class Employee {
 
     @Override

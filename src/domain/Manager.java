@@ -1,4 +1,8 @@
 package domain;
+
+/**
+ * Represents a manager who supervises a group of employees.
+ */
 public class Manager extends Employee {
 
     public Manager(Employee[] employees, String name, String jobTitle, int level, String dept) {
